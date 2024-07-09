@@ -1,26 +1,25 @@
 /* DIV COM "FRONTEND PROJECT" */
 #frontend-container{
-    background-color: rgb(68, 72, 77);
-    box-shadow: 5px 5px 3px #000;
-    width: fit-content;
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 5px 5px  #000;
     margin-top: 116px;
     margin-left: 91px;
+    text-align: center;
+    padding: 42px 44px;
 }
 
-#name{
-    text-align: center;
-    padding: 20px 20px 10px ;
+#frontend-container h1{
     color: #F25A70;
     text-shadow: 3px 3px black;
-    font-size:20px;
+    font-size:40px;
     font-family: "Press Start 2p", sans-serif;
+    margin-bottom: 28px;
 }
 
-#frontProject{ /*FIM DA DIV (ULTIMO)*/
-    text-align: center;
-    padding-bottom: 20px;
+#frontend-container h2{ /*FIM DA DIV (ULTIMO)*/
     color: #FFF;
     text-shadow: 3px 3px black;
-    font-size: 13px;
+    font-size: 30px;
     font-family: "Press Start 2p";
 }
