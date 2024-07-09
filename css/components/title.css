@@ -1,0 +1,26 @@
+/* DIV COM "FRONTEND PROJECT" */
+#frontend-container{
+    background-color: rgb(68, 72, 77);
+    box-shadow: 5px 5px 3px #000;
+    width: fit-content;
+    margin-top: 116px;
+    margin-left: 91px;
+}
+
+#name{
+    text-align: center;
+    padding: 20px 20px 10px ;
+    color: #F25A70;
+    text-shadow: 3px 3px black;
+    font-size:20px;
+    font-family: "Press Start 2p", sans-serif;
+}
+
+#frontProject{ /*FIM DA DIV (ULTIMO)*/
+    text-align: center;
+    padding-bottom: 20px;
+    color: #FFF;
+    text-shadow: 3px 3px black;
+    font-size: 13px;
+    font-family: "Press Start 2p";
+}
