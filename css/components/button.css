@@ -1,0 +1,18 @@
+/*BUTTON NAVBAR*/
+.button {
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px;
+    line-height: 60px;
+    padding: 0px 20px 0px 20px;
+    box-shadow: 5px 5px 0 black;
+    margin: 0px;
+    transition: transform 0.3s ease-in-out;
+    font-size: 20px;
+    color: #fff;
+}
+
+.button:hover {
+    transform: scale(1.07);
+}
+
