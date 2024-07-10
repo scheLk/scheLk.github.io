@@ -1,5 +1,5 @@
 /* DIV COM "FRONTEND PROJECT" */
-#frontend-container{
+.frontend-container{
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 5px 5px  #000;
@@ -9,7 +9,7 @@
     padding: 42px 44px;
 }
 
-#frontend-container h1{
+.frontend-container h1{
     color: #F25A70;
     text-shadow: 3px 3px black;
     font-size:40px;
@@ -17,7 +17,7 @@
     margin-bottom: 28px;
 }
 
-#frontend-container h2{ /*FIM DA DIV (ULTIMO)*/
+.frontend-container h2{ /*FIM DA DIV (ULTIMO)*/
     color: #FFF;
     text-shadow: 3px 3px black;
     font-size: 30px;
