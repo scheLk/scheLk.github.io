@@ -1,0 +1,27 @@
+.banner{
+    background-image: url(../../assets/img/PIXELARTLOGO.jpg);
+    border-bottom: 10px solid hsl(0, 0%, 0%);
+    height: 631px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    padding: 116px 0px 0px 91px;
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner .btn-nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.banner .box{
+    margin-bottom: 38px;
+}
+
+
+

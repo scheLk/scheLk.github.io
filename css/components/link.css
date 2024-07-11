@@ -1,7 +1,7 @@
 .link-normal{
     display: inline-flex;
     align-items: center;
-    color: #FFFFFF ;
+    color: #fff ;
     font-size: 20px;
     font-family: "FiraCode";
     font-weight: 500;
@@ -11,12 +11,12 @@
 
 .link-normal::before{
     content: " ";
-    background-color: #F25A70;
+    background-color: #b49286;
     width: 10px;
     height: 10px;
     margin-right: 10px ;
 }
 
 .link-normal:hover{
-    color: #F25A70;
+    color: #8d7369;
 }

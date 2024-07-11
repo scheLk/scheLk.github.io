@@ -1,23 +1,21 @@
 /* DIV COM "FRONTEND PROJECT" */
-.frontend-container{
+.box{
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 5px 5px  #000;
-    margin-top: 116px;
-    margin-left: 91px;
     text-align: center;
     padding: 42px 44px;
 }
 
-.frontend-container h1{
-    color: #F25A70;
+.box h1{
+    color: #b49286;
     text-shadow: 3px 3px black;
     font-size:40px;
     font-family: "Press Start 2p", sans-serif;
     margin-bottom: 28px;
 }
 
-.frontend-container h2{ /*FIM DA DIV (ULTIMO)*/
+.box h2{ /*FIM DA DIV (ULTIMO)*/
     color: #FFF;
     text-shadow: 3px 3px black;
     font-size: 30px;
