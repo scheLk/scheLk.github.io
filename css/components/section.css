@@ -1,7 +1,7 @@
 .banner{
     background-image: url(../../assets/img/PIXELARTLOGO.jpg);
     border-bottom: 10px solid hsl(0, 0%, 0%);
-    height: 631px;
+    height: 600px;
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -29,7 +29,14 @@
     border-bottom: 10px solid hsl(0, 0%, 0%);
 }
 
-.banner-2 .box{
-    background-color:#d7bea8 ;
+.banner-2 .box2{
     box-shadow: none;
+}
+
+.banner-2 .title-p{
+    color: #b49286;
+    text-shadow: 3px 3px black;
+    font-size:40px;
+    font-family: "Press Start 2p", sans-serif;
+    margin-bottom: 28px;
 }
