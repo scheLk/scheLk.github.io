@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="css/components/section.css">
     <link rel="stylesheet" href="css/components/box.css">
     <link rel="stylesheet" href="css/components/section-2.css">
+    <link rel="stylesheet" href="css/components/progressbar.css">
 
 </head>
 
@@ -61,13 +62,15 @@
     <section class="section">
 
         <h2 class="main-title -second">Skills</h2>
-        
-        <dl class="main-skills">
-            <dt class="title">HTML</dt>
-            <dd class="icon"><img src="assets/img/ico_html5.png" alt="HTML5"></dd>
-            <dd class="bar"><progress value="70" max="100">70%</progress></dd>
-        </dl>
-    
+
+        <article class="main-skills">
+            <div class="tec-box">
+                <img class="icon" src="assets/img/ico_html5.png" alt="HTML5">
+                <h3 class="title">HTML</h3>
+                <progress value="70" max="100" class="progressbar">70%</progress>
+            </div>
+        </article>
+
     </section>
 
     <script src="app.js"></script>
