@@ -1,13 +1,4 @@
-/* DIV COM "FRONTEND PROJECT" */
-.box{
-    display: inline-block;
-    background-color: #3A4042;
-    box-shadow: 5px 5px  #000;
-    text-align: center;
-    padding: 42px 44px;
-}
-
-.box h1{
+.title{
     color: #b49286;
     text-shadow: 3px 3px black;
     font-size:40px;
@@ -15,7 +6,7 @@
     margin-bottom: 28px;
 }
 
-.box h2{ /*FIM DA DIV (ULTIMO)*/
+.box .subtitle{ /*FIM DA DIV (ULTIMO)*/
     color: #FFF;
     text-shadow: 3px 3px black;
     font-size: 30px;

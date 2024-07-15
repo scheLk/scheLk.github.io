@@ -1,5 +1,5 @@
 .banner{
-    background-image: url(../../assets/img/PIXELARTLOGO.jpg);
+    /*background-image: url(../../assets/img/PIXELARTLOGO.jpg);*/
     border-bottom: 10px solid hsl(0, 0%, 0%);
     height: 600px;
     background-repeat: no-repeat;
@@ -23,17 +23,16 @@
     margin-bottom: 38px;
 }
 
-.banner-2{
+/* SECTION 2*/
+
+.banner.-second{
+    align-items: center;
     background-color: #d7bea8;
     height: 740px;
     border-bottom: 10px solid hsl(0, 0%, 0%);
 }
 
-.banner-2 .box2{
-    box-shadow: none;
-}
-
-.banner-2 .title-p{
+.title.-second{
     color: #b49286;
     text-shadow: 3px 3px black;
     font-size:40px;
