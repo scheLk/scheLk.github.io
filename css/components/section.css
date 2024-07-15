@@ -22,20 +22,3 @@
 .banner .box{
     margin-bottom: 38px;
 }
-
-/* SECTION 2*/
-
-.banner.-second{
-    align-items: center;
-    background-color: #d7bea8;
-    height: 740px;
-    border-bottom: 10px solid hsl(0, 0%, 0%);
-}
-
-.title.-second{
-    color: #b49286;
-    text-shadow: 3px 3px black;
-    font-size:40px;
-    font-family: "Press Start 2p", sans-serif;
-    margin-bottom: 28px;
-}

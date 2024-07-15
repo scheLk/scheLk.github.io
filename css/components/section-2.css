@@ -1,0 +1,25 @@
+/* SECTION 2*/
+.main-title.-second{
+    text-shadow: none;
+    color: black;
+    margin: 0px;
+    padding: 50px 0px 100px 0px;
+    text-align: center;
+}
+
+.section{
+    background-color: #d7bea8;
+    border-bottom: 10px solid #744253;
+}
+
+/*MAIN SKILLS*/
+
+.main-skills{
+    
+}
+
+.main-skills .title{
+    font-family: "Press Start 2p", sans-serif;
+    font-size: 25px;
+    color: #fff;
+}
