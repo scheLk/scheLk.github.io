@@ -1,0 +1,26 @@
+/* SKILLS 2*/
+.main-title.-second{
+    text-shadow: none;
+    color: black;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.section-skills{
+    background-color: #d7bea8;
+    border-bottom: 10px solid #744253;
+    padding: 50px 0px 100px ;
+}
+
+.section-skills .wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.wrapper .skill:nth-child(odd){
+    margin-right: 100px;
+}
