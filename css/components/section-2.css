@@ -7,29 +7,9 @@
 }
 
 .section{
+
     background-color: #d7bea8;
     border-bottom: 10px solid #744253;
-    padding: 50px 0px ;
+    padding: 50px 0px 100px ;
 }
 
-/*MAIN SKILLS*/
-
-.main-skills{
-    display: flex;
-}
-
-.main-skills .title{
-    font-family: "Press Start 2p", sans-serif;
-    font-size: 25px;
-    color: #fff;
-}
-
-.main-skills .icon{
-    margin-right: 28px;
-}
-
-.main-skills .tec-box{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-}
