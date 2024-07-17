@@ -1,4 +1,4 @@
-.banner{
+.main-section{
     background-image: url(../../assets/img/PIXELARTLOGO.jpg);
     border-bottom: 10px solid hsl(0, 0%, 0%);
     height: 600px;
@@ -7,17 +7,17 @@
     padding: 116px 0px 0px 91px;
 }
 
-.banner .wrapper{
+.main-section .wrapper{
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .btn-nav{
+.main-section .btn-nav{
     display: flex;
     justify-content: space-around;
 }
 
-.banner .box{
+.main-section .box{
     margin-bottom: 38px;
 }
